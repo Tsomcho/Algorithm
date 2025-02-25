@@ -1,0 +1,14 @@
+C:\Users\mega\Documents\11V\awadasdwdqwdqw\awadasdwdqwdqw\bin\Debug\net8.0\awadasdwdqwdqw.exe
+C:\Users\mega\Documents\11V\awadasdwdqwdqw\awadasdwdqwdqw\bin\Debug\net8.0\awadasdwdqwdqw.deps.json
+C:\Users\mega\Documents\11V\awadasdwdqwdqw\awadasdwdqwdqw\bin\Debug\net8.0\awadasdwdqwdqw.runtimeconfig.json
+C:\Users\mega\Documents\11V\awadasdwdqwdqw\awadasdwdqwdqw\bin\Debug\net8.0\awadasdwdqwdqw.dll
+C:\Users\mega\Documents\11V\awadasdwdqwdqw\awadasdwdqwdqw\bin\Debug\net8.0\awadasdwdqwdqw.pdb
+C:\Users\mega\Documents\11V\awadasdwdqwdqw\awadasdwdqwdqw\obj\Debug\net8.0\awadasdwdqwdqw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mega\Documents\11V\awadasdwdqwdqw\awadasdwdqwdqw\obj\Debug\net8.0\awadasdwdqwdqw.AssemblyInfoInputs.cache
+C:\Users\mega\Documents\11V\awadasdwdqwdqw\awadasdwdqwdqw\obj\Debug\net8.0\awadasdwdqwdqw.AssemblyInfo.cs
+C:\Users\mega\Documents\11V\awadasdwdqwdqw\awadasdwdqwdqw\obj\Debug\net8.0\awadasdwdqwdqw.csproj.CoreCompileInputs.cache
+C:\Users\mega\Documents\11V\awadasdwdqwdqw\awadasdwdqwdqw\obj\Debug\net8.0\awadasdwdqwdqw.dll
+C:\Users\mega\Documents\11V\awadasdwdqwdqw\awadasdwdqwdqw\obj\Debug\net8.0\refint\awadasdwdqwdqw.dll
+C:\Users\mega\Documents\11V\awadasdwdqwdqw\awadasdwdqwdqw\obj\Debug\net8.0\awadasdwdqwdqw.pdb
+C:\Users\mega\Documents\11V\awadasdwdqwdqw\awadasdwdqwdqw\obj\Debug\net8.0\awadasdwdqwdqw.genruntimeconfig.cache
+C:\Users\mega\Documents\11V\awadasdwdqwdqw\awadasdwdqwdqw\obj\Debug\net8.0\ref\awadasdwdqwdqw.dll

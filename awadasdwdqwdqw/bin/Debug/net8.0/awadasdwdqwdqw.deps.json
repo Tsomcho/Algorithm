@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "awadasdwdqwdqw/1.0.0": {
+        "runtime": {
+          "awadasdwdqwdqw.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "awadasdwdqwdqw/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
