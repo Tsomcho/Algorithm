@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "zadacjha2/1.0.0": {
+        "runtime": {
+          "zadacjha2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zadacjha2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

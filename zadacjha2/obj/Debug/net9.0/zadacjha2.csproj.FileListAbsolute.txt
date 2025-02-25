@@ -1,0 +1,14 @@
+C:\Users\mega\Documents\11V\zadacjha2\zadacjha2\bin\Debug\net9.0\zadacjha2.exe
+C:\Users\mega\Documents\11V\zadacjha2\zadacjha2\bin\Debug\net9.0\zadacjha2.deps.json
+C:\Users\mega\Documents\11V\zadacjha2\zadacjha2\bin\Debug\net9.0\zadacjha2.runtimeconfig.json
+C:\Users\mega\Documents\11V\zadacjha2\zadacjha2\bin\Debug\net9.0\zadacjha2.dll
+C:\Users\mega\Documents\11V\zadacjha2\zadacjha2\bin\Debug\net9.0\zadacjha2.pdb
+C:\Users\mega\Documents\11V\zadacjha2\zadacjha2\obj\Debug\net9.0\zadacjha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mega\Documents\11V\zadacjha2\zadacjha2\obj\Debug\net9.0\zadacjha2.AssemblyInfoInputs.cache
+C:\Users\mega\Documents\11V\zadacjha2\zadacjha2\obj\Debug\net9.0\zadacjha2.AssemblyInfo.cs
+C:\Users\mega\Documents\11V\zadacjha2\zadacjha2\obj\Debug\net9.0\zadacjha2.csproj.CoreCompileInputs.cache
+C:\Users\mega\Documents\11V\zadacjha2\zadacjha2\obj\Debug\net9.0\zadacjha2.dll
+C:\Users\mega\Documents\11V\zadacjha2\zadacjha2\obj\Debug\net9.0\refint\zadacjha2.dll
+C:\Users\mega\Documents\11V\zadacjha2\zadacjha2\obj\Debug\net9.0\zadacjha2.pdb
+C:\Users\mega\Documents\11V\zadacjha2\zadacjha2\obj\Debug\net9.0\zadacjha2.genruntimeconfig.cache
+C:\Users\mega\Documents\11V\zadacjha2\zadacjha2\obj\Debug\net9.0\ref\zadacjha2.dll
